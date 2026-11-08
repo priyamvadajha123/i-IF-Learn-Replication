@@ -1,0 +1,24 @@
+# Dataset folders
+8 Single-Cell RNA-seq Datasets/
+10 Gene Microarray Datasets/
+seurat_data/
+
+# Downloaded archives
+*.zip
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+Untitled*.ipynb
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local configuration and secrets
+.env
+.env.*
